@@ -1,0 +1,2 @@
+# AtCoderDisplayUsername
+AtCoderで特定ユーザの提出を検索した際、タイトルにユーザー名を表示するuserscript
